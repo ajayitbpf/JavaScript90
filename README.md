@@ -1,3 +1,3 @@
 # Table of Content
 
-[Value and Variable](Fundamental\Value_variable.md)
+[Value and Variable](Fundamental/Value_variable.md)
